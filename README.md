@@ -20,7 +20,7 @@ Installation
 
 Clone this repository:
 ````
-git clone https://github.com/yourusername/Node.js-Video-Streaming-Application.git
+git clone https://github.com/Mutai-Gilbert/Node.js-Video-Streaming-Application.git
 
 ````
 Navigate to the project directory:
@@ -57,7 +57,7 @@ This project is licensed under the MIT License.
 
 Acknowledgments
 
-Special thanks to [Author Name] for [specific contribution or inspiration].
+Special thanks to [(akshatbhargava123)] for [the artivle he wrote on how to go about this on medium].
 Support
 
 If you encounter any issues or have questions, feel free to open an issue.
