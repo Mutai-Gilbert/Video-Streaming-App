@@ -14,7 +14,7 @@ Prerequisites
 
 Before getting started, ensure you have the following installed:
   
-- Node.j
+- Node.js
 - npm
 Installation
 
