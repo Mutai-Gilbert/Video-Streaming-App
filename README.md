@@ -1,8 +1,8 @@
-Node.js Video Streaming Application
+Video-Streaming-App
 
 Overview
 
-This Node.js Video Streaming Application allows users to effortlessly stream and share video content. Whether you're looking to host your videos or create a platform for others to share theirs, this application provides a robust and user-friendly solution.
+This Video-Streaming-App allows users to effortlessly stream and share video content. Whether you're looking to host your videos or create a platform for others to share theirs, this application provides a robust and user-friendly solution.
 
 Features
 
